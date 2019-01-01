@@ -37,6 +37,7 @@
 		21EA959C197645D600E4370A /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EA95981976428A00E4370A /* MainView.swift */; };
 		21F358441977A2F00080C74A /* PreferencesWindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EA95A0197649BE00E4370A /* PreferencesWindowController.swift */; };
 		21F358741977A6960080C74A /* PreferencesWindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21EA95A0197649BE00E4370A /* PreferencesWindowController.swift */; };
+		36F4348C21DB383900F9219E /* CNTRAL - Logomark White.eps in Resources */ = {isa = PBXBuildFile; fileRef = 36F4348B21DB383900F9219E /* CNTRAL - Logomark White.eps */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		21D784202066B04000A6C175 /* ClockStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockStyle.swift; sourceTree = "<group>"; };
 		21EA95981976428A00E4370A /* MainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		21EA95A0197649BE00E4370A /* PreferencesWindowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreferencesWindowController.swift; sourceTree = "<group>"; };
+		36F4348B21DB383900F9219E /* CNTRAL - Logomark White.eps */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CNTRAL - Logomark White.eps"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 			children = (
 				2147FD041A8BB6800048407C /* thumbnail.png */,
 				2147FD051A8BB6800048407C /* thumbnail@2x.png */,
+				36F4348B21DB383900F9219E /* CNTRAL - Logomark White.eps */,
 				21D56DFD19AF825A00C40125 /* braun.pdf */,
 				2156237D18D0191800DF57B5 /* Clock-Info.plist */,
 				2156237E18D0191800DF57B5 /* Preferences.xib */,
@@ -279,6 +282,7 @@
 				2147FD081A8BB6800048407C /* thumbnail@2x.png in Resources */,
 				21D56DFE19AF825A00C40125 /* braun.pdf in Resources */,
 				2147FD071A8BB6800048407C /* thumbnail.png in Resources */,
+				36F4348C21DB383900F9219E /* CNTRAL - Logomark White.eps in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

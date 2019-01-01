@@ -100,7 +100,8 @@ class ClockView: NSView {
 	}
 
 	func drawLogo() {
-		drawLogo(color: style.logoColor, width: 0.156299841, y: 0.622009569)
+//        drawLogo(color: style.logoColor, width: 0.156299841, y: 0.622009569)
+        drawLogo(color: style.logoColor, width: 0.0781499205, y: 0.652009569)
 	}
 
 	func drawNumbers() {
@@ -275,7 +276,8 @@ class ClockView: NSView {
 		drawsLogo = preferences.drawsLogo
 		
 		if drawsLogo {
-			if let imageURL = Bundle(for: ClockView.self).url(forResource: "braun", withExtension: "pdf") {
+            if let imageURL = Bundle(for: ClockView.self).url(forResource: "CNTRAL - Logomark White", withExtension: "eps") {
+//            if let imageURL = Bundle(for: ClockView.self).url(forResource: "braun", withExtension: "pdf") {
 				logoImage = NSImage(contentsOf: imageURL)
 			}
 		} else {
