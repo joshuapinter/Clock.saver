@@ -44,20 +44,20 @@
 		2117D0631A9672600051552F /* BN0111.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BN0111.swift; sourceTree = "<group>"; };
 		2147FD041A8BB6800048407C /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbnail.png; sourceTree = "<group>"; };
 		2147FD051A8BB6800048407C /* thumbnail@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "thumbnail@2x.png"; sourceTree = "<group>"; };
-		2156237D18D0191800DF57B5 /* Clock-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Clock-Info.plist"; sourceTree = "<group>"; };
+		2156237D18D0191800DF57B5 /* CNTRAL Clock-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CNTRAL Clock-Info.plist"; sourceTree = "<group>"; };
 		2156237E18D0191800DF57B5 /* Preferences.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Preferences.xib; sourceTree = "<group>"; };
-		21592F3E18CB7D4A00931D75 /* Clock.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Clock.saver; sourceTree = BUILT_PRODUCTS_DIR; };
+		21592F3E18CB7D4A00931D75 /* CNTRAL Clock.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CNTRAL Clock.saver"; sourceTree = BUILT_PRODUCTS_DIR; };
 		21592F4118CB7D4A00931D75 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		21592F4318CB7D4A00931D75 /* ScreenSaver.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScreenSaver.framework; path = System/Library/Frameworks/ScreenSaver.framework; sourceTree = SDKROOT; };
 		21592F4618CB7D4A00931D75 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		21592F4718CB7D4A00931D75 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		21592F4818CB7D4A00931D75 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		21592F5C18CB7F3D00931D75 /* ClockDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClockDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		21592F5C18CB7F3D00931D75 /* CNTRAL ClockDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CNTRAL ClockDemo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		21592F7718CB7F3D00931D75 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		2160288E18D035A200494FE5 /* AppKitScripting.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKitScripting.framework; path = System/Library/Frameworks/AppKitScripting.framework; sourceTree = SDKROOT; };
 		21623B3719779F16001BA4A9 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21623B3D19779F16001BA4A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		21623B3E19779F16001BA4A9 /* ClockTest-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ClockTest-Info.plist"; sourceTree = "<group>"; };
+		21623B3E19779F16001BA4A9 /* CNTRAL ClockTest-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CNTRAL ClockTest-Info.plist"; sourceTree = "<group>"; };
 		21623B3F19779F16001BA4A9 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		216F0AA21A969767005B946B /* BN0021.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BN0021.swift; sourceTree = "<group>"; };
 		219E68F719782D5400805FEA /* Preferences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preferences.swift; sourceTree = "<group>"; };
@@ -132,7 +132,7 @@
 				2147FD051A8BB6800048407C /* thumbnail@2x.png */,
 				36F4348B21DB383900F9219E /* CNTRAL - Logomark White.eps */,
 				21D56DFD19AF825A00C40125 /* braun.pdf */,
-				2156237D18D0191800DF57B5 /* Clock-Info.plist */,
+				2156237D18D0191800DF57B5 /* CNTRAL Clock-Info.plist */,
 				2156237E18D0191800DF57B5 /* Preferences.xib */,
 			);
 			path = Resources;
@@ -151,8 +151,8 @@
 		21592F3F18CB7D4A00931D75 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				21592F3E18CB7D4A00931D75 /* Clock.saver */,
-				21592F5C18CB7F3D00931D75 /* ClockDemo.app */,
+				21592F3E18CB7D4A00931D75 /* CNTRAL Clock.saver */,
+				21592F5C18CB7F3D00931D75 /* CNTRAL ClockDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -200,7 +200,7 @@
 			isa = PBXGroup;
 			children = (
 				21623B3C19779F16001BA4A9 /* MainMenu.xib */,
-				21623B3E19779F16001BA4A9 /* ClockTest-Info.plist */,
+				21623B3E19779F16001BA4A9 /* CNTRAL ClockTest-Info.plist */,
 				21623B3F19779F16001BA4A9 /* Images.xcassets */,
 			);
 			path = Resources;
@@ -209,9 +209,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		21592F3D18CB7D4A00931D75 /* Clock */ = {
+		21592F3D18CB7D4A00931D75 /* CNTRAL Clock */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 21592F5518CB7D4A00931D75 /* Build configuration list for PBXNativeTarget "Clock" */;
+			buildConfigurationList = 21592F5518CB7D4A00931D75 /* Build configuration list for PBXNativeTarget "CNTRAL Clock" */;
 			buildPhases = (
 				21592F3818CB7D4A00931D75 /* Sources */,
 				21592F3918CB7D4A00931D75 /* Frameworks */,
@@ -221,14 +221,14 @@
 			);
 			dependencies = (
 			);
-			name = Clock;
+			name = "CNTRAL Clock";
 			productName = Clock;
-			productReference = 21592F3E18CB7D4A00931D75 /* Clock.saver */;
+			productReference = 21592F3E18CB7D4A00931D75 /* CNTRAL Clock.saver */;
 			productType = "com.apple.product-type.bundle";
 		};
-		21592F5B18CB7F3D00931D75 /* ClockDemo */ = {
+		21592F5B18CB7F3D00931D75 /* CNTRAL ClockDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 21592F8418CB7F3D00931D75 /* Build configuration list for PBXNativeTarget "ClockDemo" */;
+			buildConfigurationList = 21592F8418CB7F3D00931D75 /* Build configuration list for PBXNativeTarget "CNTRAL ClockDemo" */;
 			buildPhases = (
 				21592F5818CB7F3D00931D75 /* Sources */,
 				21592F5918CB7F3D00931D75 /* Frameworks */,
@@ -238,9 +238,9 @@
 			);
 			dependencies = (
 			);
-			name = ClockDemo;
+			name = "CNTRAL ClockDemo";
 			productName = ClockTest;
-			productReference = 21592F5C18CB7F3D00931D75 /* ClockDemo.app */;
+			productReference = 21592F5C18CB7F3D00931D75 /* CNTRAL ClockDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -253,8 +253,13 @@
 				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "Sam Soffes";
+				TargetAttributes = {
+					21592F3D18CB7D4A00931D75 = {
+						DevelopmentTeam = CWU3B867W8;
+					};
+				};
 			};
-			buildConfigurationList = 21592F3718CB7D4A00931D75 /* Build configuration list for PBXProject "Clock" */;
+			buildConfigurationList = 21592F3718CB7D4A00931D75 /* Build configuration list for PBXProject "CNTRAL Clock" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -267,8 +272,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				21592F3D18CB7D4A00931D75 /* Clock */,
-				21592F5B18CB7F3D00931D75 /* ClockDemo */,
+				21592F3D18CB7D4A00931D75 /* CNTRAL Clock */,
+				21592F5B18CB7F3D00931D75 /* CNTRAL ClockDemo */,
 			);
 		};
 /* End PBXProject section */
@@ -454,14 +459,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
-				INFOPLIST_FILE = "Clock/Resources/Clock-Info.plist";
+				DEVELOPMENT_TEAM = CWU3B867W8;
+				INFOPLIST_FILE = "Clock/Resources/CNTRAL Clock-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.samsoffes.clock;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.samsoffes.cntral-clock";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
 				WRAPPER_EXTENSION = saver;
 			};
 			name = Debug;
@@ -470,14 +477,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
-				INFOPLIST_FILE = "Clock/Resources/Clock-Info.plist";
+				DEVELOPMENT_TEAM = CWU3B867W8;
+				INFOPLIST_FILE = "Clock/Resources/CNTRAL Clock-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.samsoffes.clock;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.samsoffes.cntral-clock";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
 				WRAPPER_EXTENSION = saver;
 			};
 			name = Release;
@@ -492,7 +501,7 @@
 					"$(inherited)",
 					"DEMO=1",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/ClockDemo/Resources/ClockTest-Info.plist";
+				INFOPLIST_FILE = "ClockDemo/Resources/CNTRAL ClockTest-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				OTHER_CFLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.samsoffes.clock-demo";
@@ -508,7 +517,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = "DEMO=1";
-				INFOPLIST_FILE = "$(SRCROOT)/ClockDemo/Resources/ClockTest-Info.plist";
+				INFOPLIST_FILE = "ClockDemo/Resources/CNTRAL ClockTest-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				OTHER_CFLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.samsoffes.clock-demo";
@@ -520,7 +529,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		21592F3718CB7D4A00931D75 /* Build configuration list for PBXProject "Clock" */ = {
+		21592F3718CB7D4A00931D75 /* Build configuration list for PBXProject "CNTRAL Clock" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				21592F5318CB7D4A00931D75 /* Debug */,
@@ -529,7 +538,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		21592F5518CB7D4A00931D75 /* Build configuration list for PBXNativeTarget "Clock" */ = {
+		21592F5518CB7D4A00931D75 /* Build configuration list for PBXNativeTarget "CNTRAL Clock" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				21592F5618CB7D4A00931D75 /* Debug */,
@@ -538,7 +547,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		21592F8418CB7F3D00931D75 /* Build configuration list for PBXNativeTarget "ClockDemo" */ = {
+		21592F8418CB7F3D00931D75 /* Build configuration list for PBXNativeTarget "CNTRAL ClockDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				21592F8518CB7F3D00931D75 /* Debug */,
