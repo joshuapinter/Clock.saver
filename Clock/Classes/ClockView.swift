@@ -132,7 +132,7 @@ class ClockView: NSView {
 		drawHand(length: 0.391547049, thickness: 0.009569378, angle: angle)
 
 		// Counterweight
-		drawHand(length: -0.076555024, thickness: 0.028708134, angle: angle, lineCapStyle: .roundLineCapStyle)
+		drawHand(length: -0.076555024, thickness: 0.028708134, angle: angle, lineCapStyle: .round)
 		let nubSize = clockFrame.size.width * 0.052631579
 		let nubFrame = CGRect(x: (bounds.size.width - nubSize) / 2.0, y: (bounds.size.height - nubSize) / 2.0, width: nubSize, height: nubSize)
 		NSBezierPath(ovalIn: nubFrame).fill()
@@ -148,7 +148,7 @@ class ClockView: NSView {
 
 	// MARK: - Drawing Helpers
 
-	func drawHand(length: Double, thickness: Double, angle: Double, lineCapStyle: NSBezierPath.LineCapStyle = .squareLineCapStyle) {
+	func drawHand(length: Double, thickness: Double, angle: Double, lineCapStyle: NSBezierPath.LineCapStyle = .square) {
 		let center = CGPoint(x: clockFrame.midX, y: clockFrame.midY)
 		let clockWidth = Double(clockFrame.size.width)
 		let end = CGPoint(
