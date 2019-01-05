@@ -253,6 +253,11 @@
 				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "Sam Soffes";
+				TargetAttributes = {
+					21592F3D18CB7D4A00931D75 = {
+						DevelopmentTeam = CWU3B867W8;
+					};
+				};
 			};
 			buildConfigurationList = 21592F3718CB7D4A00931D75 /* Build configuration list for PBXProject "Clock" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -457,6 +462,7 @@
 				CODE_SIGN_IDENTITY = "Developer ID Application";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = CWU3B867W8;
 				INFOPLIST_FILE = "Clock/Resources/Clock-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
@@ -473,6 +479,7 @@
 				CODE_SIGN_IDENTITY = "Developer ID Application";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = CWU3B867W8;
 				INFOPLIST_FILE = "Clock/Resources/Clock-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
