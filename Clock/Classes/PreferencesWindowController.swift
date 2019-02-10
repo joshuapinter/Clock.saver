@@ -8,7 +8,7 @@ final class PreferencesWindowController: NSWindowController {
 	@IBOutlet weak var stylePopUpButton: NSPopUpButton!
 
 	override var windowNibName: NSNib.Name? {
-		return NSNib.Name(rawValue: "Preferences")
+		return "Preferences"
 	}
 
 	private let preferences = Preferences()
